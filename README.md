@@ -6,6 +6,7 @@
 
 - [7월 16일 학습자료](https://www.notion.so/7-7-16-23296aba58cc80409e87c0acc83a34d8)
 - [7월 17일 학습자료](https://www.notion.so/8-7-17-23296aba58cc8083a2c8cb67ca47f9c4)
+- [7월 18일 학습자료](https://www.notion.so/9-7-18-23396aba58cc80ae8b09fc50f4c8ea83)
 
 ## 취미
 
