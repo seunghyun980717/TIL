@@ -104,7 +104,7 @@ visudo: sudo 권한을 가진 사용자 목록을 관리하는 /etc/sudoers 파�
 
 ---
 
-5. 웹 서버 구축 (NGINX)
+## 5. 웹 서버 구축 (NGINX)
 🔹 설치 및 확인
 Bash
 
@@ -127,7 +127,7 @@ sudo apt install nginx -y
 
 왜 쓰는가?: Node.js나 Python 같은 언어로 만든 서버보다, 단순한 파일 전송이나 보안 처리는 NGINX가 훨씬 빠르고 효율적이기 때문에 보통 앞단에 NGINX를 둡니다.
 
-6. 기타 (DNS & 관리)
+## 6. 기타 (DNS & 관리)
 🔹 DNS (Domain Name System)
 역할: 사람이 외우기 힘든 IP 주소(예: 3.34.12.11)를 이해하기 쉬운 도메인 이름(예: https://www.google.com/search?q=google.com)으로 변환해주는 시스템.
 
