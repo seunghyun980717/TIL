@@ -8,3 +8,7 @@
 
 
 ### 🐍 Node.js / Firebase
+
+### 🐧 Linux Shell
+
+### 🍓 Raspberry Pi
